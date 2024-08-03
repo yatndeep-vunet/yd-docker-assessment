@@ -1,8 +1,7 @@
-# Shree Ganeshay Namah 
-<div style="display:flex;">
+<!--Shree Ganeshay Namah -->
+<div>
 
  <img src="https://vunetsystems.com/wp-content/uploads/2021/12/Vunet-Logo.png" style='height:25%;width:25%;'/>
- <p style='font-size:2rem; font-weight:bolder; margin: 0 auto;'> Docker Assignment</p>
 </div>
 
 
